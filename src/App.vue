@@ -1,7 +1,7 @@
 <template lang="pug">
   #app
     header.flex-header
-      img.logo(src='./assets/logo.png')
+      img.logo(src='dist/logo.png')
       h1 PlatziMusic
       div
         p Selecciona el País:
