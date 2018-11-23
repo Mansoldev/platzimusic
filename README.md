@@ -2,7 +2,7 @@
 
 > Proyecto del curso de Introducción a Vue.js de Platzi
 
-> Demo: https://mansold.github.io/platzimusic/
+> Demo: https://mansoldev.github.io/platzimusic/
 
 ## Build Setup
 
