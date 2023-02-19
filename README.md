@@ -4,6 +4,8 @@
 
 > Demo: https://mansoldev.github.io/platzimusic/
 
+> 2022: La API de LastFM ya no devuelve imagenes de los artistas
+
 ## Build Setup
 
 ``` bash
